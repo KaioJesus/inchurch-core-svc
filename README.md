@@ -3,6 +3,31 @@
 Este repositório foi criado para para fazer a requisição de login.
 Os dados dos usuários são mockados:
 
+Para fazer login, utilize os dados da pasta utis/users.list
+
+```bash
+   const USERS_LIST = [
+    {
+        name: 'Kaio Jesus',
+        email: 'kaiojesus@gmail.com',
+        username: 'kaio',
+        password: '123456789',
+    },
+    {
+        name: 'Kevin Jesus',
+        email: 'kevinjesus@gmail.com',
+        username: 'kevin',
+        password: '123456789',
+    },
+    {
+        name: 'Kauã Jesus',
+        email: 'kauajesus@gmail.com',
+        username: 'Kaua',
+        password: '123456789',
+    },
+]
+```
+
 ## 🚀 Como executar o projeto backend
 
 ### Pré-requisitos
