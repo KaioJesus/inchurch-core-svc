@@ -16,7 +16,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/KaioJesus/inchurch.git
+   git clone https://github.com/KaioJesus/KaioJesus/inchurch-core-svc.git
    ```
 
 2. **Entre no diretório do projeto**
