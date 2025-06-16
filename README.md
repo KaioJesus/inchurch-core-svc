@@ -49,6 +49,6 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 - express
 - JWT
 
-Seu Nome - [@KaioJesus][(https://github.com/seu-usuario](https://github.com/KaioJesus))
+[KaioJesus](https://github.com/KaioJesus)
 
-Link do Projeto: [https://github.com/KaioJesus/inchurch](https://github.com/KaioJesus/inchurch)
+
