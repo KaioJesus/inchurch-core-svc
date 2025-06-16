@@ -8,8 +8,8 @@ Os dados dos usuários são mockados:
 ### Pré-requisitos
 
 Antes de começar, certifique-se de ter instalado em sua máquina:
-- [Node.js](https://nodejs.org/) (versão 14 ou superior)
-- [npm](https://www.npmjs.com/) (geralmente vem com o Node.js)
+- [Node.js](https://nodejs.org/) 
+- [npm](https://www.npmjs.com/) 
 - [Git](https://git-scm.com/)
 
 ### Instalação e execução
